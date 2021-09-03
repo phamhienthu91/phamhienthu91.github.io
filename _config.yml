@@ -3,7 +3,7 @@ title: Pham Hien Thu art'
 email: ""
 description: "Photo Journal"
 url: "https://phamhienthu91.github.io"
-baseurl: "/phamhienthu91.github.io"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://phamhienthu91.github.io/phamhienthu91.github.io/gallery/"
-  - JOURNAL: "https://sunbliss.github.io/phamhienthu91.github.io/journal/"
-  - ABOUT: "https://sunbliss.github.io/phamhienthu91.github.io/about/"
+  - GALLERY: "https://phamhienthu91.github.io/gallery/"
+  - JOURNAL: "https://sunbliss.github.io/journal/"
+  - ABOUT: "https://sunbliss.github.io/about/"
 
 # All translation keys
 translations:
