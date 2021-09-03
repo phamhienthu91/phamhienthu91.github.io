@@ -1,7 +1,7 @@
 # Site settings
 title: Pham Hien Thu art'
 email: ""
-description: "Photo Journal"
+description: "Pham Hien Thu personal site"
 url: "https://phamhienthu91.github.io"
 baseurl: "/"
 facebook_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   phamhienthu91
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: site info
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
